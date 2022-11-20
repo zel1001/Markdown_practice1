@@ -32,10 +32,10 @@
     </html> four spaces or one tab.
 
 
-1. Gizel
-2. Norman
-3. Jecko
-4. Valenzuela
+1. Blue
+2. Green
+3. Orange
+4. Red
 
 <!-- That's totally gnarly dude -->
 
