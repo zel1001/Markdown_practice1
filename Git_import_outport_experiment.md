@@ -23,7 +23,7 @@ Learn to create branches to test out different ideas and methods, until it's fin
 - Open your CLI/Terminal
     - Type: git add -A **(The *-A* command will add all the files.)**
     - Type: git commit -m "A brief message of all changes made"
-    - Type: git push origin *main/or/master*
+    - Type: git push origin ***main/master***
     - Push is complete! Files are now exported to the cloud repository.
 - How to create a branch for Experimental/Beta Versions.
 - Open your CLI/Terminal
