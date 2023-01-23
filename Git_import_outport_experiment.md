@@ -27,13 +27,14 @@ Learn to create branches to test out different ideas and methods, until it's fin
     - Push is complete! Files are now exported to the cloud repository.
 - How to create a branch for Experimental/Beta Versions.
 - Open your CLI/Terminal
-    - Type: git checkout -b ***New-Name-For-Branch***
+        - Type: git checkout -b ***New-Name-For-Branch***
+        - Type: git checkout ***branch_name*** "Navigate to the branch name"
     - You Created & Switched into the newly created branch.
     - The branch repository is now free for testing and experimentaion!
     - Push any new versions/files into the branch when ready.
+        - Type: git push origin ***branch_name***
 - How to merge the branch file into the main/master file.
     - Navigate to the branch file.
-        - Type: git checkout ***branch_name***
     - Find the **Compare & Pull request**
     - Open and Create the Pull request with additional comments.
     - Approve the pull request.
