@@ -33,6 +33,7 @@ Learn to create branches to test out different ideas and methods, until it's fin
     - Push any new versions/files into the branch when ready.
 - How to merge the branch file into the main/master file.
     - Navigate to the branch file.
+        - Type: git checkout ***branch_name***
     - Find the **Compare & Pull request**
     - Open and Create the Pull request with additional comments.
     - Approve the pull request.
