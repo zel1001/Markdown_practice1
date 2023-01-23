@@ -28,6 +28,7 @@ Learn to create branches to test out different ideas and methods, until it's fin
 - How to create a branch for Experimental/Beta Versions.
 - Open your CLI/Terminal
         - Type: git checkout -b ***New-Name-For-Branch***
+    - How to Navigate to already created branch.
         - Type: git checkout ***branch_name*** "Navigate to the branch name"
     - You Created & Switched into the newly created branch.
     - The branch repository is now free for testing and experimentaion!
